@@ -1,4 +1,4 @@
-# GitHub Stats Snatcher
+# GitHub Stats Snatcher and automatic readme.md updater
 
 GitHub Stats Snatcher is a powerful and easy-to-use Python script that fetches and updates your GitHub statistics automatically. It fetches repository information such as star count, fork count, clone count, referral paths, referral sources, and page views, and updates your README file with these statistics. This is the perfect tool for individuals who want to keep their GitHub profile up to date with their latest project statistics.
 
