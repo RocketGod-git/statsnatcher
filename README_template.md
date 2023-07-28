@@ -1,10 +1,12 @@
-# RocketGod-git
+# <Your Name>
 
-Find me on my Discord server [here](https://discord.gg/thepirates).
+Find me on my Discord server [here](<Your Discord Server Link>).
 
-Find me on YouTube [here](https://www.youtube.com/@lordrocketgod).
+Find me on YouTube [here](<Your YouTube Channel Link>).
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RocketGod-git&show_icons=true&theme=aura&include_all_commits=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=<Your GitHub Username>&show_icons=true&theme=aura&include_all_commits=true"/>
+
+# EDIT ABOVE THIS COMMENT, REMOVE THIS LINE, AND DONT TOUCH ANYTHING BELOW
 
 ## My Top Repositories
 Sorted by stars, forks, clones, and page views.
@@ -26,3 +28,5 @@ Sorted by stars, forks, clones, and page views.
 
 ## Top Referral Sources
 <!-- REFERRAL_SOURCE_LIST -->
+
+Stats provided by [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
