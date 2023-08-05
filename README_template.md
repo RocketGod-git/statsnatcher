@@ -11,6 +11,9 @@ Find me on YouTube [here](<Your YouTube Channel Link>).
 ## My Top Repositories
 Sorted by stars, forks, clones, and page views.
 
+Stats provided by:
+[GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
+
 ### Most Starred
 <!-- STAR_LIST -->
 
@@ -23,10 +26,14 @@ Sorted by stars, forks, clones, and page views.
 ### Most Viewed
 <!-- PAGE_VIEW_LIST -->
 
+## Contributors
+<!-- CONTRIBUTOR_LIST -->
+
 ## Top Referral Paths
 <!-- REFERRAL_PATH_LIST -->
 
 ## Top Referral Sources
 <!-- REFERRAL_SOURCE_LIST -->
 
-Stats provided by [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
+## Timestamp
+<!-- TIMESTAMP -->
