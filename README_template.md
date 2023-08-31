@@ -20,19 +20,19 @@ Stats provided by:
 ### Most Forked
 <!-- FORK_LIST -->
 
-### Most Cloned
+### Most Cloned (14 day stats)
 <!-- CLONE_LIST -->
 
-### Most Viewed
+### Most Viewed (14 day stats)
 <!-- PAGE_VIEW_LIST -->
 
 ## Contributors
 <!-- CONTRIBUTOR_LIST -->
 
-## Top Referral Paths
+## Top Referral Paths (14 day stats)
 <!-- REFERRAL_PATH_LIST -->
 
-## Top Referral Sources
+## Top Referral Sources (14 day stats)
 <!-- REFERRAL_SOURCE_LIST -->
 
 ## Timestamp
