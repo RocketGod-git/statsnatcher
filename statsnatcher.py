@@ -292,8 +292,6 @@ if __name__ == '__main__':
             print('Countdown to next update:')
             countdown(24*60*60) # 24 hours in seconds
 
-            # Wait for 24 hours
-            time.sleep(24*60*60)
         except Exception as e:
             print(f"An error occurred: {str(e)}")
             # Print detailed traceback
